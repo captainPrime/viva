@@ -1,1 +1,0 @@
-# vivacity-mobile-concierge
